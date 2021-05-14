@@ -6,3 +6,6 @@ git remote -v
 git remote add remotename remoteaddress
 git remote rm remotename
 git status
+git branch branch-name 新建branch-name分支
+git checkout branch-name 切换到branch-name分支
+git merge branch-name 把branch-name合并到当前分支
